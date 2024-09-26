@@ -1,0 +1,16 @@
+
+body {
+font-size: 30pt;
+color: blue;
+background-color: ;
+margin: 6mm;
+}
+p {
+font-size: 20pt;
+color: green;
+background-color: ;
+margin: 6mm;
+}
+pre, code {
+font-size: 8pt;
+}

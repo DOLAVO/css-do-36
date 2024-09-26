@@ -1,0 +1,8 @@
+1. Styl lokalny pozwala na nadanie formatowania konkretnemu pojedynczemu elementowi strony.
+2. Składnia teoretyczna dla stylu lokalnego wykorzystuje znaki specjalne, w tym komentarze HTML 
+(<!-- -->), aby zawartość była wyświetlana wewnątrz ramki, nie wykonując jednocześnie instrukcji CSS.
+3. Selektorem w kontekście styli CSS może być różnorodne znaczniki HTML, klasy, identyfikatory, atrybuty oraz pseudoklasy i pseudoelementy.
+4. Jako "cechę" w kontekście styli CSS wpisujemy właściwości, które definiują wygląd i zachowanie elementów HTML. Cechy określają 
+różnorodne aspekty stylizacji, takie jak kolor, rozmiar, odstęp, obramowanie itp. Przykłady cech to color, font-size, padding, border, background-color itp.
+5. Jako "wartość" w deklaracji stylu wpisujemy właściwości, które definiują konkretne ustawienia dla danej cechy elementu HTML. np: do kolor: red
+lub do size: 13px
